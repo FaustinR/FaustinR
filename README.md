@@ -78,16 +78,19 @@ Spécialisé en **Python (FastAPI, Flask)**, **JavaScript/TypeScript (React)** e
 
 ### 🏢 Atos Worldgrid — Analyste Développeur (2021 - 2026)
 
-- Développement d’API REST avec **FastAPI & Flask**
-- Développement frontend avec **React & Bootstrap**
-- Développement backend en **Python / Java / C#**
-- Optimisation SQL (Oracle PL/SQL)
-- CI/CD avec **GitLab CI, Jenkins**
-- Déploiement sur **OpenShift & Kubernetes**
-- Cloud : **AWS EC2**
-- Tests automatisés : **Pytest, Selenium, Cucumber, Gherkin**
-- Suivi qualité : **SonarQube**
-- Travail en environnement Agile / SAFe
+- Participation à la conception de la nouvelle architecture applicative  
+- Développement d’applications web et de services backend  
+- Optimisation de l’expérience utilisateur (performance, fluidité des interactions, clarté des interfaces)  
+- Conception, refonte et optimisation des bases de données Oracle et des requêtes SQL  
+- Analyse et traitement de données avec Pandas et NumPy  
+- Mise en place et maintenance des pipelines CI/CD avec GitLab CI/CD  
+- Automatisation des tests fonctionnels et end-to-end  
+- Suivi de la qualité du code et amélioration continue avec SonarQube  
+- Monitoring applicatif et analyse des logs via Kibana  
+- Analyse et correction des anomalies (bug fixing)  
+- Participation aux cérémonies Agile (Daily, Sprint Planning, Rétrospective, PI Planning)  
+- Support aux développeurs seniors : revues de code et assistance aux déploiements  
+- Mise à jour des tickets JIRA et documentation technique / fonctionnelle dans Confluence  
 
 ---
 
