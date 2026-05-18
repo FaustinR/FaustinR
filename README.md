@@ -113,9 +113,8 @@ Python + Pandas + NumPy + Plotly
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustinR&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FaustinR&layout=compact" />
 </p>
-
 ---
 
 ## 🌍 Langues
