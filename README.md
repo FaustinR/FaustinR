@@ -34,11 +34,13 @@ Spécialisé en **Python (FastAPI, Flask)**, **JavaScript/TypeScript (React)** e
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Plotly.js](https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
 ### 🗄️ Bases de données
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -55,6 +57,7 @@ Spécialisé en **Python (FastAPI, Flask)**, **JavaScript/TypeScript (React)** e
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ---
 
@@ -78,19 +81,18 @@ Spécialisé en **Python (FastAPI, Flask)**, **JavaScript/TypeScript (React)** e
 
 ### 🏢 Atos Worldgrid — Analyste Développeur (2021 - 2026)
 
-- Participation à la conception de la nouvelle architecture applicative  
-- Développement d’applications web et de services backend  
-- Optimisation de l’expérience utilisateur (performance, fluidité des interactions, clarté des interfaces)  
-- Conception, refonte et optimisation des bases de données Oracle et des requêtes SQL  
-- Analyse et traitement de données avec Pandas et NumPy  
-- Mise en place et maintenance des pipelines CI/CD avec GitLab CI/CD  
-- Automatisation des tests fonctionnels et end-to-end  
-- Suivi de la qualité du code et amélioration continue avec SonarQube  
-- Monitoring applicatif et analyse des logs via Kibana  
-- Analyse et correction des anomalies (bug fixing)  
-- Participation aux cérémonies Agile (Daily, Sprint Planning, Rétrospective, PI Planning)  
-- Support aux développeurs seniors : revues de code et assistance aux déploiements  
-- Mise à jour des tickets JIRA et documentation technique / fonctionnelle dans Confluence  
+- Participation à la conception de la nouvelle architecture applicative
+- Développement d’applications web et de services backend
+- Optimisation de l’expérience utilisateur (performance, fluidité, UX/UI)
+- Conception, refonte et optimisation des bases de données Oracle et requêtes PL/SQL
+- Analyse et traitement de données avec Pandas et NumPy
+- Mise en place et maintenance des pipelines CI/CD avec GitLab CI/CD
+- Automatisation des tests fonctionnels et end-to-end (Pytest, Selenium, Cucumber, Gherkin)
+- Monitoring applicatif et analyse des logs via Kibana
+- Analyse et correction des anomalies (bug fixing)
+- Participation aux cérémonies Agile / SAFe (Daily, Sprint Planning, PI Planning, Rétrospective)
+- Gestion des tickets via Jira et documentation technique/fonctionnelle sur Confluence
+- Support aux développeurs seniors : revues de code et assistance aux déploiements
 
 ---
 
@@ -103,10 +105,10 @@ FastAPI + PostgreSQL + Docker + JWT + CI/CD
 Flask + React + Bootstrap + SQLite
 
 ### 🔹 DevOps Pipeline
-Docker + Jenkins + GitLab CI/CD + Kubernetes
+Docker + Jenkins + GitLab CI/CD + Kubernetes + AWS EC2
 
 ### 🔹 Data Processing
-Python + Pandas + NumPy + Plotly
+Python + Pandas + NumPy + Plotly.js
 
 ---
 
