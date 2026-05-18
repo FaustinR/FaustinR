@@ -24,6 +24,7 @@ Spécialisé en **Python (FastAPI, Flask)**, **JavaScript/TypeScript (React)** e
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -91,8 +92,18 @@ Spécialisé en **Python (FastAPI, Flask)**, **JavaScript/TypeScript (React)** e
 - Monitoring applicatif et analyse des logs via Kibana
 - Analyse et correction des anomalies (bug fixing)
 - Participation aux cérémonies Agile / SAFe (Daily, Sprint Planning, PI Planning, Rétrospective)
-- Gestion des tickets via Jira et documentation technique/fonctionnelle sur Confluence
+- Gestion des tickets Jira et documentation technique/fonctionnelle sur Confluence
 - Support aux développeurs seniors : revues de code et assistance aux déploiements
+
+---
+
+### ⚡ Performance & Optimisation (Python)
+
+- Analyse des performances applicatives avec **cProfile**
+- Profiling détaillé du code avec **LineProfiler**
+- Identification des goulots d’étranglement backend
+- Optimisation des requêtes SQL et réduction du temps de réponse API
+- Amélioration des performances globales des services backend
 
 ---
 
